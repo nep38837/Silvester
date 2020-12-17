@@ -945,17 +945,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":15,
          "firstgid":321,
-         "image":"..\/weihnachtsfeier_ucs\/tile set ucs.png",
-         "imageheight":480,
-         "imagewidth":480,
-         "margin":0,
-         "name":"Tileset UCS",
-         "spacing":0,
-         "tilecount":225,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"Tileset UCS.tsx"
         }, 
         {
          "firstgid":546,
